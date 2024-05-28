@@ -17,6 +17,7 @@ require (
 	golang.org/x/mod v0.8.0
 	ACHTTPSourceParser
 	github.com/sean9999/go-fast-proxy
+	shylinux.com/x/go-git/v5/utils/merkletrie
 
 require (
 	github.com/andybalholm/cascadia v1.1.0 // indirect
