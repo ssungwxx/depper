@@ -16,7 +16,7 @@ require (
 	github.com/sirupsen/logrus v1.9.0
 	golang.org/x/mod v0.8.0
 	ACHTTPSourceParser
-	aiohttp
+	github.com/sean9999/go-fast-proxy
 
 require (
 	github.com/andybalholm/cascadia v1.1.0 // indirect
